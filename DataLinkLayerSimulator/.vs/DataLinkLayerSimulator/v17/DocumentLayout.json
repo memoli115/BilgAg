@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\DataLinkLayerSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9DB25F-12C1-4FEA-A985-AB50AC72520F}|DataLinkLayerSimulator\\DataLinkLayerSimulator.csproj|c:\\users\\ibrah\\source\\repos\\datalinklayersimulator\\datalinklayersimulator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9DB25F-12C1-4FEA-A985-AB50AC72520F}|DataLinkLayerSimulator\\DataLinkLayerSimulator.csproj|solutionrelative:datalinklayersimulator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9DB25F-12C1-4FEA-A985-AB50AC72520F}|DataLinkLayerSimulator\\DataLinkLayerSimulator.csproj|c:\\users\\ibrah\\source\\repos\\datalinklayersimulator\\datalinklayersimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9DB25F-12C1-4FEA-A985-AB50AC72520F}|DataLinkLayerSimulator\\DataLinkLayerSimulator.csproj|solutionrelative:datalinklayersimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9DB25F-12C1-4FEA-A985-AB50AC72520F}|DataLinkLayerSimulator\\DataLinkLayerSimulator.csproj|c:\\users\\ibrah\\source\\repos\\datalinklayersimulator\\datalinklayersimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A9DB25F-12C1-4FEA-A985-AB50AC72520F}|DataLinkLayerSimulator\\DataLinkLayerSimulator.csproj|solutionrelative:datalinklayersimulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DataLinkLayerSimulator\\DataLinkLayerSimulator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DataLinkLayerSimulator\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DataLinkLayerSimulator\\DataLinkLayerSimulator\\Form1.Designer.cs",
+              "RelativeToolTip": "DataLinkLayerSimulator\\Form1.Designer.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAYwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:51:11.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DataLinkLayerSimulator\\DataLinkLayerSimulator\\Form1.cs",
+              "RelativeDocumentMoniker": "DataLinkLayerSimulator\\Form1.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DataLinkLayerSimulator\\DataLinkLayerSimulator\\Form1.cs",
+              "RelativeToolTip": "DataLinkLayerSimulator\\Form1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwEoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:41:00.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DataLinkLayerSimulator\\DataLinkLayerSimulator\\Form1.cs",
+              "RelativeDocumentMoniker": "DataLinkLayerSimulator\\Form1.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DataLinkLayerSimulator\\DataLinkLayerSimulator\\Form1.cs [Design]",
+              "RelativeToolTip": "DataLinkLayerSimulator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:36:17.011Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
